@@ -1,3 +1,5 @@
+#This project is licensed under the MIT License. See the LICENSE file for details.
+#Contributions are welcome! Please fork the repository and submit a pull request for any improvements or bug fixes.
 import cv2
 import mediapipe as mp
 import pyautogui
