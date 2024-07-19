@@ -1,5 +1,6 @@
-# kinect-hand-tracking
-A Python project that uses Azure Kinect DK for hand tracking and controlling the mouse with gestures..
+# Kinect Hand Tracking
+
+A Python project that uses Azure Kinect DK for hand tracking and controlling the mouse with gestures.
 
 ## Description
 
@@ -17,6 +18,7 @@ This repository contains a Python script that leverages the Azure Kinect DK came
 - Python 3.7 or higher
 - Azure Kinect DK
 - Azure Kinect SDK and dependencies
+- Microsoft Visual C++ Build Tools
 - OpenCV
 - MediaPipe
 - PyAutoGUI
@@ -31,13 +33,17 @@ This repository contains a Python script that leverages the Azure Kinect DK came
     cd kinect-hand-tracking
     ```
 
-2. **Install the required Python packages:**
+2. **Install Microsoft Visual C++ Build Tools:**
+
+    - Download and install [Microsoft Visual C++ Build Tools](https://visualstudio.microsoft.com/visual-cpp-build-tools/).
+
+3. **Install the required Python packages:**
 
     ```sh
     pip install opencv-python mediapipe pyautogui pyk4a
     ```
 
-3. **Install Azure Kinect SDK:**
+4. **Install Azure Kinect SDK:**
    
    Follow the instructions for your operating system on the [Azure Kinect SDK](https://docs.microsoft.com/en-us/azure/kinect-dk/sdk-download) download page.
 
