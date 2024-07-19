@@ -2,8 +2,7 @@
 
 A Python project that uses Azure Kinect DK for hand tracking and controlling the mouse with gestures.
 ![Screenshot 2024-07-19 150001](https://github.com/user-attachments/assets/83fb4299-be9d-4c0e-8d43-4eef44e01487)
-![Uploading IMG_1571-1.jpg…]()
-
+![IMG_1571-1](https://github.com/user-attachments/assets/fc1f393d-4801-4e8f-adb0-8e606fc1a08e)
 
 ## Description
 
