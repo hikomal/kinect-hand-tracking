@@ -31,7 +31,7 @@ This repository contains a Python script that leverages the Azure Kinect DK came
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/YOUR_USERNAME/kinect-hand-tracking.git
+    git clone https://github.com/hikomal/kinect-hand-tracking.git
     cd kinect-hand-tracking
     ```
 
